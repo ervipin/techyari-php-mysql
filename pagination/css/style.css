@@ -1,0 +1,4 @@
+.info,.pagination-wrap{text-align: center;}
+h2{padding: 10px;}
+.pagination li a.active{background: #428BCA;
+color: white;}
