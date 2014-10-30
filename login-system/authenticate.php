@@ -24,7 +24,6 @@
 
 
 	if($query->rowCount() == 0){
-		//echo "invalid user id or password";
 		header('Location: index.php?err=1');
 	}else{
 

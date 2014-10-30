@@ -1,0 +1,5 @@
+.info,.pagination-wrap{text-align: center;}
+h2{padding: 10px;}
+th,td{border: 1px solid gray;padding:5px;text-align: center;}
+.content-area{text-align: left;}
+footer{clear: both;text-align: center;margin-top: 100px;}
