@@ -81,7 +81,7 @@
           <div class="col-md-12">
                      <?php for($i = 0; $i<sizeof($articles);$i++){ ?>
 
-                      <div class="article row">
+                      <div class="article row" article-id="<?php echo $articles[$i][0] ?>">
                         <div class="id col-md-2"><?php echo $articles[$i][0] ?></div>
                         <div class="text col-md-7"><?php echo $articles[$i][1] ?></div>
                         <div class="rating col-md-3 <?php echo $articles[$i][2] ?>"><?php echo $articles[$i][2] ?></div>
