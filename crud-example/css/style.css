@@ -1,0 +1,30 @@
+.title{text-align: center;}
+textarea{width: 400px;padding: 20px;}
+.article-form{text-align: center; padding: 20px;width: 400px;margin: auto;}
+.article-form input{
+	float:right;padding: 5px;border: none;
+	background: lightblue;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: inherit;
+	margin-right: -40px;
+}
+.articles{max-width:100%;}
+table{margin:auto;width: 600px;}
+thead{background: lightblue}
+th,td{padding:5px;border-bottom: 1px solid rgb(143, 207, 240);}
+.edit{
+	text-decoration: none;
+	background: rgb(211, 184, 34);
+	color: white;
+	padding: 3px 7px;
+	font-weight: 500;
+}
+.delete{
+	text-decoration: none;
+	background: rgb(211, 74, 34);
+	color: white;
+	padding: 3px 7px;
+	font-weight: 500;
+
+}
